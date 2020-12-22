@@ -19,5 +19,7 @@ events:
   - mit-scratch
   - sugar-neighborhood
   - minecraft-end-user
+  - unimat-1
+  - us-army-technology
 ---
 
