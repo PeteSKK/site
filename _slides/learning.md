@@ -27,4 +27,6 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - unimat-1
+  - us-army-technology
 ---
